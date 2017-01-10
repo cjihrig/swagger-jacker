@@ -22,11 +22,14 @@
   },
   "dependencies": {
     "consolidate": "0.14.5",
-    "express": "4.14.0"
+    "express": "4.14.0",
+    "lodash.set": "4.3.2"
   },
   "devDependencies": {
     "belly-button": "3.x.x",
+    "celebrate": "4.x.x",
     "code": "4.x.x",
+    "joi": "10.x.x",
     "lab": "11.x.x"
   },
   "keywords": [
